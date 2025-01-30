@@ -1,6 +1,13 @@
 # Jogo do Número Secreto 🎲
 
-Bem-vindo ao **Jogo do Número Secreto**! Este projeto foi desenvolvido com **HTML**, **CSS** e **JavaScript** para proporcionar uma experiência divertida e desafiadora para quem gosta de testar suas habilidades em adivinhar números.
+Bem-vindo ao **Jogo do Número Secreto**! Este projeto foi desenvolvido para proporcionar uma experiência divertida e desafiadora para quem gosta de testar suas habilidades em adivinhar números.
+
+## 💻 Tecnologias
+<div>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+</div>
 
 ## 🕹️ Sobre o Jogo
 
